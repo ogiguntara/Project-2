@@ -4,7 +4,7 @@ import os
 import psycopg2
 
 def db_file_config():
-        config_file = "\config\db.conf"
+        config_file = "/PROJECT_2/config/db.conf"
         return config_file
 
 def db_config():
@@ -23,7 +23,6 @@ def db_config():
 
 def db_connect():
         config = db_config()
-
         host = config['host'].strip()
         db = config['database'].strip()
         port = config['port'].strip()

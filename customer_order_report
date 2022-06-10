@@ -1,0 +1,6 @@
+digraph "Customer Order Report" {
+	graph [fontcolor="#2D3436" fontname="Sans-Serif" fontsize=15 label="Customer Order Report" nodesep=0.60 pad=2.0 rankdir=LR ranksep=0.75 splines=ortho]
+	node [fixedsize=true fontcolor="#2D3436" fontname="Sans-Serif" fontsize=13 height=1.4 imagescale=true labelloc=b shape=box style=rounded width=1.4]
+	edge [color="#7B8894"]
+	e0aa2d9048194a66ae97246f3c655d7d [label="Data Warehouse" height=1.9 image="/home/ogi/.local/lib/python3.8/site-packages/resources/onprem/database/postgresql.png" shape=none]
+}

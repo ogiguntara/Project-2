@@ -8,8 +8,8 @@ import numpy as np
 if __name__ == "__main__":
     #list path
     path = os.getcwd()
-    path_query = path + '/sql/'
-    #list filename
+    path_query = path + '/PROJECT_2/sql/'
+    #list filename (scalable file_query_1 2 3 ..etc)
     file_query = 'dml_query_1.sql'
     #connection
     conn = connection.db_connect()
