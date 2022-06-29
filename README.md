@@ -1,6 +1,6 @@
 # Project-2
 Extract Data From SQL File, Transform, and Create Excel File
-![Uploading project 2 1.jpg…]()
+![project 2 1](https://user-images.githubusercontent.com/96209699/176355602-ade22839-f2d3-4778-9fa8-cdbe964baf8b.jpg)
 
 
 im using a given order E-commerce data set from Digital Skola data set comes with 2 files .sql. the data folowing information=
