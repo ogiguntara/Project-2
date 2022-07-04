@@ -1,5 +1,5 @@
 # Project-2
-Produce Monthly Report from Sales Data using Batch Data Processing with Python
+Produce Monthly Report from Sales Data through Batch Data Processing using Python
 ![project 2 1](https://user-images.githubusercontent.com/96209699/176355602-ade22839-f2d3-4778-9fa8-cdbe964baf8b.jpg)
 
 
